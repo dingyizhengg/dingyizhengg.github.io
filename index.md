@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Let's talk about energy stations
 
-You can use the [editor on GitHub](https://github.com/dingyizhengg/dingyizhengg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Energy stations are very dangerous
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On July 5, Tianjin Beichen District Emergency Management Bureau announced that at 21:50 on July 4, 2022, a fire caused by gas leakage occurred at a gas regulator station of Tianjin fuel China Resources Gas Co., Ltd. on Luohe Road during maintenance, and the fire department rushed to the scene in time for disposal. At present, the main gas valve involved has been closed, the open fire has been extinguished, and there are no casualties. The specific cause of the accident is under further investigation, and the relevant disposal and aftermath work is in progress
 
-### Markdown
+### Energy station
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
