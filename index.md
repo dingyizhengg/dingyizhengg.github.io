@@ -1,12 +1,3 @@
-## Let's talk about energy stations
-
-Energy stations are very dangerous
-
-On July 5, Tianjin Beichen District Emergency Management Bureau announced that at 21:50 on July 4, 2022, a fire caused by gas leakage occurred at a gas regulator station of Tianjin fuel China Resources Gas Co., Ltd. on Luohe Road during maintenance, and the fire department rushed to the scene in time for disposal. At present, the main gas valve involved has been closed, the open fire has been extinguished, and there are no casualties. The specific cause of the accident is under further investigation, and the relevant disposal and aftermath work is in progress
-
-### Energy station
-
-If there is an energy station next to your home, you should say fuck to it.
 
 ```markdown
                                                                         新希望锦麟天玺小区
